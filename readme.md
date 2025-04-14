@@ -17,3 +17,5 @@ Sample Python Flask web application using Azure Cosmos DB for NoSQL.
     pip install -r requirements.txt
     python app.py
     ```
+
+TEST
